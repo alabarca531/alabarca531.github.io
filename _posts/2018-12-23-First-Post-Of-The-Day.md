@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First, Post, Of, The, Day"
+title: "First Post Of The Day"
 date: 2018-12-23
 ---
 
